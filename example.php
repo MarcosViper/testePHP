@@ -8,4 +8,4 @@ class Palindrome
 }
 
 // TESTE
-echo Palindrome::isPalindrome('A grama é amarga.');
+echo Palindrome::isPalindrome('A grama e amarga.');
